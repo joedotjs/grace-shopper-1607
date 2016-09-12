@@ -16,6 +16,7 @@ app.factory('RandomGreetings', function () {
         'Gimme 3 mins... I just grabbed this really dope frittata',
         'If Cooper could offer only one piece of advice, it would be to nevSQUIRREL!',
         'Hi, 1607!',
+        'Woof, 1607!',
         'Hi there!'
     ];
 
